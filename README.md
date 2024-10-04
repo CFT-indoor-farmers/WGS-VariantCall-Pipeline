@@ -1,2 +1,2 @@
 # WGS-VariantCall-Pipeline
-deez nutz
+Pipeline for resequencing alignment, variant calling and filtering
